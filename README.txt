@@ -23,3 +23,5 @@ For information on how to get started with Apache Ignite please visit:
 You can find Apache Ignite documentation here:
 
     http://apacheignite.readme.io/v1.0/docs/getting-started
+
+Join the chat at https://gitter.im/apacheignite/ignite
